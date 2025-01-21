@@ -1,0 +1,6 @@
+energy-system
+monitor-on
+set-view
+internet-access
+load-app
+load-profiles
